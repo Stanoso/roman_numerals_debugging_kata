@@ -17,12 +17,20 @@ public class RomanNumerals {
     }
 
     public String convertToRoman(int number) {
+        for (RomanDigit rD:digits) {
+            if(number== rD.getValue()) {
+                return rD.getLetter();
+            }
+        }
         StringBuilder sb = new StringBuilder();
         int remainingNumber = number;
         for (int i = 0; i < digits.size(); i++) {
             RomanDigit currentDigit = digits.get(i);
             remainingNumber = addLettersWithValueIfRequired(remainingNumber, currentDigit, sb);
-            for (int j = i; j < digits.size(); j++) {
+            for (int j = i+1; j < digits.size(); j++) {
+                if (String.valueOf(remainingNumber).charAt(0)>'5' && (i==0 || i==2 || i==4)) {
+                    j++;
+                }
                 RomanDigit digitToSubtract = digits.get(j);
                 remainingNumber = addSubtractingFormulaIfRequired(remainingNumber, currentDigit, digitToSubtract, sb);
             }

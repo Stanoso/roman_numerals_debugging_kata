@@ -94,6 +94,11 @@ public class RomanNumeralsTest {
     }
 
     @Test
+    public void fourteenHundredNinetyTwo() {
+        assertRomanNumeralEquals("MCDXCII", 1492);
+    }
+
+    @Test
     public void nine() {
         assertRomanNumeralEquals("IX", 9);
     }

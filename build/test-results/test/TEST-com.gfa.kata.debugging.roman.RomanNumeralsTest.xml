@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gfa.kata.debugging.roman.RomanNumeralsTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2020-10-08T08:12:41" hostname="LAPTOP-L3BUPHSP" time="0.017">
+  <properties/>
+  <testcase name="fourteenHundredNinetyTwo" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.007"/>
+  <testcase name="fiveHundred" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="nineHundred" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="ninety" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="thirtyNine" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="fourHundred" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="one" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="six" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="ten" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.001"/>
+  <testcase name="two" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="five" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="four" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.001"/>
+  <testcase name="nine" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="fifty" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="forty" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="sixty" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.001"/>
+  <testcase name="fourtyOne" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="fourteen" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.001"/>
+  <testcase name="threeHundredAndNinetyNine" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="threeThousandNineHundredAndNinetyNine" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="eightyNine" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <testcase name="oneThousand" classname="com.gfa.kata.debugging.roman.RomanNumeralsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
